@@ -1,1 +1,17 @@
-loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/1tqu3q1lq6gr384s7jk8up7v9g6mgm8o.lua"))()
+
+local GameId = game.GameId
+if GameId == 5750914919 then -- fisch
+
+elseif GameId == 1451439645 then
+  loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/1tqu3q1lq6gr384s7jk8up7v9g6mgm8o.lua"))()
+elseif GameId == 6401952734 then
+
+elseif GameId == 3183403065 then -- Anime Adventures
+
+elseif GameId == 6325068386 then -- Blue Lock Rival
+
+elseif GameId == 7074860883 then -- Arise crossover
+
+else
+  warn("kuy rai i sus")
+end
